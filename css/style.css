@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(245, 135, 10);
+    font-family: 'Open Sans', 'Helvetica Neve', Helvetica, Arial, sans-serif;
+    font-size: 22px;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+td{
+    vertical-align: text-top;
+}
+ul{
+    list-style: none;
+}
+ul li{
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+   font-size: 22px;
+   height: 60px;
+}
+ul li a{
+    height: 60px;
+    background-color: #333;
+    display: block;
+    border-left: 10px solid rgb(153, 179, 8);
+    border-right: 5px solid rgb(253, 19, 11);
+    padding-left: 15px;
+    text-decoration: none;
+    color: #bfe1f1;
+}
+ul li a:hover{
+    margin-left: 10px;
+    color: #136e53;
+    background-color: #0b1741;
+    box-shadow: 10px 10px 20px #1e014a;
+    transform: rotate(4deg);
+    -moz-transform: rotate(4deg);
+    -webkit-transform: rotate(4deg);
+}
+td{
+    vertical-align: top;
+}
+a {
+    text-decoration: none;
+    color:black;
+}
+div {
+    color: black;
+    height: 100%;
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 1px solid pink;
+    background-color: pink;
+    border-radius: 15px;
+    border: solid 2px black;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px black;
+
+}
+
+.FOOTER{
+    color: black;
+    background-color: rgba(5, 245, 213, 0.877);
+}
+
+.LOOTER{
+    color: black;
+    background-color: rgb(1, 229, 254);
+}
+.GOOTER{
+    color: black;
+    background-color:rgba(82, 82, 255, 0.842) ;
+    
+}
